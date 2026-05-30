@@ -1,0 +1,45 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+margin: 0;
+color: #333;
+}
+
+header {
+background-color: #1f4e79;
+color: white;
+text-align: center;
+padding: 25px;
+}
+
+main {
+width: 80%;
+margin: auto;
+}
+
+.step {
+background-color: white;
+margin: 20px 0;
+padding: 20px;
+border-radius: 8px;
+}
+
+.step img {
+width: 100%;
+max-width: 600px;
+display: block;
+margin-top: 10px;
+border: 1px solid #ccc;
+}
+
+.video-section {
+text-align: center;
+background-color: white;
+padding: 20px;
+margin: 20px 0;
+border-radius: 8px;
+}
+
+iframe {
+max-width: 100%;
+}
